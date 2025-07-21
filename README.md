@@ -8,10 +8,10 @@ Whether you're a student, an AI/ML enthusiast, or a tech consultant exploring re
 I started with foundational knowledge in AI/ML + Python, and wanted to build something practical — a predictive maintenance app that could be relevant across industries.
 
 Here’s how I did it:
-◉ Gemini helped me find a relevant public dataset and generated working code using Pandas, NumPy, and Scikit-learn
-◉ I moved the code into VS Code, where I was a total beginner
-◉ GitHub Copilot helped me install packages, resolve errors, and improve the app
-◉ I added my own twist: generating random sensor values to simulate fresh predictions
+- ◉ Gemini helped me find a relevant public dataset and generated working code using Pandas, NumPy, and Scikit-learn
+- ◉ I moved the code into VS Code, where I was a total beginner
+- ◉ GitHub Copilot helped me install packages, resolve errors, and improve the app
+- ◉ I added my own twist: generating random sensor values to simulate fresh predictions
 
 As a technical consultant, this opens new possibilities — I can now quickly prototype ML-powered apps to demonstrate real value to customers beyond just slide decks.
 ---
@@ -58,24 +58,24 @@ Instead of writing everything from scratch, I used:
 💡 Pro tip: If you miss anything, GitHub Copilot will automatically suggest what to install and even generate installation commands for you!
 
 🧪 How to Run the App
-→ Open VS Code
-→ Create a new folder
-→ Place the dataset file (ai4i2020.CSV file) placed in the repo 
-→ Create a new Python file and copy contents from predictive_maintenance.py
-→ Accept suggestions from Copilot to install missing packages or fix errors
-→ Run the file — you'll see model training, accuracy metrics, and predictions
+- → Open VS Code
+- → Create a new folder
+- → Place the dataset file (ai4i2020.CSV file) placed in the repo 
+- → Create a new Python file and copy contents from predictive_maintenance.py
+- → Accept suggestions from Copilot to install missing packages or fix errors
+- → Run the file — you'll see model training, accuracy metrics, and predictions
 
 Try tweaking the code to:
 
-● Add new sensor values
-● Simulate live data
-● Try different ML models (e.g. RandomForest, XGBoost)
+- Add new sensor values
+- Simulate live data
+- Try different ML models (e.g. RandomForest, XGBoost)
 
 🛠️ Customize Your Own Version
 Here are a few ideas to make this your own:
-🔄 Swap the dataset (Gemini can help suggest alternatives)
-🧠 Try different ML models (RandomForest, SVM, etc.)
-📊 Add visualizations (Matplotlib or Seaborn)
-🌐 Deploy using Streamlit or Flask
+- 🔄 Swap the dataset (Gemini can help suggest alternatives)
+- 🧠 Try different ML models (RandomForest, SVM, etc.)
+- 📊 Add visualizations (Matplotlib or Seaborn)
+- 🌐 Deploy using Streamlit or Flask
 
 Happy Vibe Coding!!
