@@ -8,12 +8,12 @@ Whether you're a student, an AI/ML enthusiast, or a tech consultant exploring re
 I started with foundational knowledge in AI/ML + Python, and wanted to build something practical — a predictive maintenance app that could be relevant across industries.
 
 Here’s how I did it:
-- ◉ Gemini helped me find a relevant public dataset and generated working code using Pandas, NumPy, and Scikit-learn
-- ◉ I moved the code into VS Code, where I was a total beginner
-- ◉ GitHub Copilot helped me install packages, resolve errors, and improve the app
-- ◉ I added my own twist: generating random sensor values to simulate fresh predictions
+- Gemini helped me find a relevant public dataset and generated working code using Pandas, NumPy, and Scikit-learn
+- I moved the code into VS Code, where I was a total beginner
+- GitHub Copilot helped me install packages, resolve errors, and improve the app
+- I added my own twist: generating random sensor values to simulate fresh predictions
 
-As a technical consultant, this opens new possibilities — I can now quickly prototype ML-powered apps to demonstrate real value to customers beyond just slide decks.
+As a technical consultant, this opens new possibilities - I can now quickly prototype ML-powered apps to demonstrate real value to customers beyond just slide decks.
 ---
 
 ## ✨ What Is Vibe Coding?
@@ -21,17 +21,17 @@ As a technical consultant, this opens new possibilities — I can now quickly pr
 > **Vibe Coding** = Foundational Skills + GenAI Assistants + Real-World Prototyping
 
 Instead of writing everything from scratch, I used:
-- 🔮 **Gemini** to generate the dataset, core logic, and model recommendations
-- 💡 **GitHub Copilot** to guide my coding process in **VS Code** — from fixing bugs to suggesting enhancements
-- 🛠️ **VS Code** as my main development environment, even as a beginner
+- **Gemini** to generate the dataset, core logic, and model recommendations
+- **GitHub Copilot** to guide my coding process in **VS Code** — from fixing bugs to suggesting enhancements
+- 🛠**VS Code** as my main development environment, even as a beginner
 ---
 
 ## ⚙️ What This Repo Includes
 
-- ✅ `predictive_maintenance.py`: The full Python code to run and experiment with
-- ✅ Ready to use predictive maintenance dataset in the form of CSV file
-- ✅ Clear guidance for beginners — just copy, paste, and let Copilot do the rest
-- ✅ No prior VS Code or Copilot experience required!
+- `predictive_maintenance.py`: The full Python code to run and experiment with
+- Ready to use predictive maintenance dataset in the form of CSV file
+- Clear guidance for beginners — just copy, paste, and let Copilot do the rest
+- No prior VS Code or Copilot experience required!
 ---
 
 ## 🚀 Getting Started
@@ -58,12 +58,12 @@ Instead of writing everything from scratch, I used:
 💡 Pro tip: If you miss anything, GitHub Copilot will automatically suggest what to install and even generate installation commands for you!
 
 🧪 How to Run the App
-- → Open VS Code
-- → Create a new folder
-- → Place the dataset file (ai4i2020.CSV file) placed in the repo 
-- → Create a new Python file and copy contents from predictive_maintenance.py
-- → Accept suggestions from Copilot to install missing packages or fix errors
-- → Run the file — you'll see model training, accuracy metrics, and predictions
+- Open VS Code
+- Create a new folder
+- Place the dataset file (ai4i2020.CSV file) into the folder 
+- Create a new Python file and copy contents from predictive_maintenance.py
+- Accept suggestions from Copilot to install missing packages or fix errors
+- Run the file — you'll see model training, accuracy metrics, and predictions
 
 Try tweaking the code to:
 
@@ -73,9 +73,9 @@ Try tweaking the code to:
 
 🛠️ Customize Your Own Version
 Here are a few ideas to make this your own:
-- 🔄 Swap the dataset (Gemini can help suggest alternatives)
-- 🧠 Try different ML models (RandomForest, SVM, etc.)
-- 📊 Add visualizations (Matplotlib or Seaborn)
-- 🌐 Deploy using Streamlit or Flask
+- Swap the dataset (Gemini can help suggest alternatives)
+- Try different ML models (RandomForest, SVM, etc.)
+- Add visualizations (Matplotlib or Seaborn)
+- Deploy using Streamlit or Flask
 
 Happy Vibe Coding!!
