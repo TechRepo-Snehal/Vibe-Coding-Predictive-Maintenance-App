@@ -29,7 +29,7 @@ Instead of writing everything from scratch, I used:
 ## ⚙️ What This Repo Includes
 
 - ✅ `predictive_maintenance.py`: The full Python code to run and experiment with
-- ✅ `requirements.txt`: Python packages used (lightweight setup)
+- ✅ Ready to use predictive maintenance dataset in the form of CSV file
 - ✅ Clear guidance for beginners — just copy, paste, and let Copilot do the rest
 - ✅ No prior VS Code or Copilot experience required!
 ---
